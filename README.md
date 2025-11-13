@@ -1,3 +1,7 @@
+## AI Assistance
+
+Parts of this project were generated with the help of AI tools(OpenCode's Zen Big Pickle model), and were subsequently reviewed and edited by the author.
+
 # Habit Tracker
 
 A modern, dark-themed habit tracking web application built with vanilla HTML, CSS, and JavaScript. Track your daily habits with a GitHub-style activity grid, monitor progress with comprehensive analytics, and manage your habits through an intuitive settings interface.
